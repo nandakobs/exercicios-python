@@ -4,15 +4,15 @@ Neste repositório estão todos os exercícios avulsos feitos por mim para prati
 
 #### Listas
 
-​	[ex002](), [ex003]()
+​	[ex002](https://github.com/nandakobs/exercicios-python/tree/main/ex002), [ex003](https://github.com/nandakobs/exercicios-python/tree/main/ex003)
 
 #### Dicionários
 
-​	[ex001](),
+​	[ex001](https://github.com/nandakobs/exercicios-python/tree/main/ex001),
 
 #### Manipulação de Arquivos
 
-​	[ex004](),
+​	[ex004](https://github.com/nandakobs/exercicios-python/tree/main/ex004),
 
 
 
