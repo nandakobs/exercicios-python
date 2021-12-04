@@ -14,7 +14,9 @@ Neste repositório estão todos os exercícios avulsos feitos por mim para prati
 
 ​	[ex004](https://github.com/nandakobs/exercicios-python/tree/main/ex004),
 
+#### Projetos
 
+​	[Django Livre](https://github.com/Lorena-Mattos/DjangoLivre)
 
 
 
